@@ -13,8 +13,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <a href="https://linkedin.com/in/estoniloje"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<br>
-
 ### 🛠️ What I actually work with
 *(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
 
@@ -48,8 +46,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<br>
-
 ### 🚀 Projects I'm Proud Of
 
 **[📦 ASPECT 3D Packing System](https://github.com/7equinox/Hybrid-PSO-ACO-3D-Tool)** 
@@ -57,8 +53,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
 
 **[🤖 Bato-Bato-Pick AI Card Game](https://github.com/john-glay/AI-Card-Game)** 
 > A browser-based card game powered by a pure JS engine I wrote entirely from scratch. It features a Greedy Best-First Search AI bot that predicts player moves, synced CSS animations for card clashes, and LocalStorage integration for auto-saving live matches.
-
-<br>
 
 ### 🎓 Certifications & Growth
 - 🏆 **Harvard University (edX):** CS50x - Introduction to Computer Science <br>
@@ -68,8 +62,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
 - 🏆 **University of Helsinki (MOOC.fi):** Java Programming I <br>
   ↳ *Credential ID:* [`dxzxr4u2tx`](https://certificates.mooc.fi/validate/dxzxr4u2tx)
   
-<br>
-
 ---
 
 ### 📊 GitHub Activity
