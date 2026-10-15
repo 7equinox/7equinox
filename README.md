@@ -27,7 +27,7 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <br>
+  <br><br>
   
   <p><b>Backend & Databases</b></p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -38,7 +38,7 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <br>
+  <br><br>
   
   <p><b>Tools & Environment</b></p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -70,7 +70,18 @@ I honestly just enjoy the process of turning complex logic into things people ca
   
 <br>
 
-<!-- Profile Views Counter -->
+---
+
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=7equinox&color=D946EF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/7equinox">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7equinox&layout=compact&bg_color=0D1117&title_color=D946EF&text_color=C9D1D9&border_color=374151&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>Always open to discussing tech, full-time opportunities, or just nerding out about code. Let's build something awesome together! 🚀</i><br><br>
+  <a href="mailto:juliusevanestonilo08@gmail.com"><img src="https://img.shields.io/badge/Shoot_me_an_email-D946EF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
