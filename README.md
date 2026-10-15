@@ -16,7 +16,11 @@ I honestly just enjoy the process of turning complex logic into things people ca
 ### 🛠️ What I actually work with
 *(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
 
+### 🛠️ What I actually work with
+*(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
+
 <div align="center">
+
   <p><b>Frontend & 3D</b></p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" />
@@ -26,7 +30,7 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   <br><br>
-  
+
   <p><b>Backend & Databases</b></p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -37,13 +41,14 @@ I honestly just enjoy the process of turning complex logic into things people ca
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br><br>
-  
+
   <p><b>Tools & Environment</b></p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
 </div>
 
 ### 🚀 Projects I'm Proud Of
