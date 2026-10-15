@@ -16,12 +16,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
 ### 🛠️ What I actually work with
 *(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
 
-### 🛠️ What I actually work with
-*(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
-
-### 🛠️ What I actually work with
-*(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
-
 <div align="center">
 
   <p><b>Frontend & 3D</b></p>
