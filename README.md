@@ -8,7 +8,7 @@
 ### 👋 Hey there! I'm Julius.
 I am a passionate software developer based in the Philippines. I recently graduated **Magna Cum Laude** with a degree in Computer Science from the **Polytechnic University of the Philippines (PUP)**, where I also proudly studied as a **DOST-SEI Merit Scholar**.
 
-I love bridging the gap between heavy, complex backend algorithms and beautiful, interactive front-end designs. Whether it's rendering 3D logistics simulations in the browser or building AI-powered bots, I'm always looking for the next challenging project to sink my teeth into.
+I honestly just enjoy the process of turning complex logic into things people can actually see and use. During my thesis, I worked on optimizing logistics using 3D simulations in the browser, and that experience made me really appreciate full-stack development. I like figuring out how things work under the hood and writing clean, sensible code. Right now, I'm eager to dive into the industry, learn from senior devs, and tackle real-world problems.
 
 <div align="center">
   <a href="mailto:juliusevanestonilo08@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D946EF?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -22,13 +22,32 @@ I love bridging the gap between heavy, complex backend algorithms and beautiful,
 
 <div align="center">
   <p><b>Frontend & 3D</b></p>
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,js,html,css,threejs&theme=dark" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
   <br><br>
+  
   <p><b>Backend & Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,flask,nodejs,java,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
   <br><br>
+  
   <p><b>Tools & Environment</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 <br>
@@ -44,10 +63,13 @@ I love bridging the gap between heavy, complex backend algorithms and beautiful,
 <br>
 
 ### 🎓 Certifications & Growth
-- 🏆 **Harvard University (edX):** CS50x - Introduction to Computer Science
-- 🏆 **IBM (Coursera):** Getting Started with Git and GitHub
-- 🏆 **University of Helsinki:** Java Programming I
-
+- 🏆 **Harvard University (edX):** CS50x - Introduction to Computer Science <br>
+  ↳ *Credential ID:* [`355b62ab-c49a-41cf-8cf9-6b184d9b2956`](https://cs50.harvard.edu/certificates/355b62ab-c49a-41cf-8cf9-6b184d9b2956)
+- 🏆 **IBM (Coursera):** Getting Started with Git and GitHub <br>
+  ↳ *Credential ID:* [`3C2BHJKC2TT9`](https://coursera.org/verify/3C2BHJKC2TT9)
+- 🏆 **University of Helsinki (MOOC.fi):** Java Programming I <br>
+  ↳ *Credential ID:* [`dxzxr4u2tx`](https://certificates.mooc.fi/validate/dxzxr4u2tx)
+  
 <br>
 
 <!-- Profile Views Counter -->
