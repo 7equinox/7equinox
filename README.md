@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D946EF&height=220&section=header&text=Julius%20Evan%20Estonilo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PUP%20Manila%20CS%20Grad&descAlignY=55&descAlign=50" />
 </div>
 
-<br>
-
 ### 👋 Hey there! I'm Julius.
 I am a passionate software developer based in the Philippines. I recently graduated **Magna Cum Laude** with a degree in Computer Science from the **Polytechnic University of the Philippines (PUP)**, where I also proudly studied as a **DOST-SEI Merit Scholar**.
 
