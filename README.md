@@ -14,7 +14,6 @@ I honestly just enjoy the process of turning complex logic into things people ca
 </div>
 
 ### 🛠️ What I actually work with
-*(Instead of an automated language tracker pulling old school projects, here is my actual tech stack!)*
 
 <div align="center">
   <p><b>Frontend & 3D</b></p>
@@ -64,7 +63,7 @@ I honestly just enjoy the process of turning complex logic into things people ca
   
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Language Statistics
 <div align="center">
   <a href="https://github.com/7equinox">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7equinox&layout=compact&bg_color=0D1117&title_color=D946EF&text_color=C9D1D9&border_color=374151&hide_border=true" alt="Top Languages" />
